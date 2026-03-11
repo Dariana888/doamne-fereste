@@ -1,6 +1,5 @@
 numar = int(input("Introdu o cifra intre 1 si 100: "))
 
-
 if 1 <= numar <= 100:
     postare = {
         "id": numar,
